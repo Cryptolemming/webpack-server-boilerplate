@@ -1,0 +1,37 @@
+{
+  "name": "newblog",
+  "version": "1.0.0",
+  "description": "Modern JavaScript remake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptolemming/newblog.git"
+  },
+  "author": "Ali Ayoub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cryptolemming/newblog/issues"
+  },
+  "homepage": "https://github.com/Cryptolemming/newblog#readme",
+  "devDependencies": {
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "css-loader": "^0.22.0",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.1",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.3"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  }
+}
