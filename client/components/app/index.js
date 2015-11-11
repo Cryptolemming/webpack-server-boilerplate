@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {} from './style.less';
 
-module.exports = class App extends Component {
+class App extends Component {
 	constructor() {
 		super();
 	}
@@ -9,3 +9,5 @@ module.exports = class App extends Component {
 		return <div>Hello from React Component</div>;
 	}
 }
+
+export default App;
