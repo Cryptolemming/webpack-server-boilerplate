@@ -1,21 +1,21 @@
 {
-  "name": "newblog",
+  "name": "webpack-server-boilerplate",
   "version": "1.0.0",
-  "description": "Modern JavaScript remake",
+  "description": "Server-rendered React, Webpack setup as instructed in this tutorial http://spraso.com/going-isomorphic-with-express-and-react-js/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptolemming/newblog.git"
+    "url": "git+https://github.com/Cryptolemming/webpack-server-boilerplate.git"
   },
   "author": "Ali Ayoub",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cryptolemming/newblog/issues"
+    "url": "https://github.com/Cryptolemming/webpack-server-boilerplate/issues"
   },
-  "homepage": "https://github.com/Cryptolemming/newblog#readme",
+  "homepage": "https://github.com/Cryptolemming/webpack-server-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.1.2",
     "babel-loader": "^6.0.1",
